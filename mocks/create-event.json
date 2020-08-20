@@ -1,0 +1,8 @@
+{
+    "body": "{\"ingredients\":\"sugar, flour, water\",\"name\":\"basic bread\",\"directions\":\"These are some fake directions.\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+}
